@@ -1,4 +1,4 @@
-# Online Book Shop Demonstration - Laravel 5
+# Online Bookstore Demonstration - Laravel 5
 
 ----------
 
