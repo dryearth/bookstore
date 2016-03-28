@@ -13,6 +13,8 @@ A Simple Online Book Shop Deomostration that using Laravel 5, including the foll
 * Rating          - User can note an rating out of 5 once they write an review, and the average score will be calculated
 * Searching       - Simple database PDO query by using Laravel Eloquent class
 * MVC Structure   - Implemented an MVC Structure followed the Laravel standard
+* 
+* Here is the video showing project functions https://www.youtube.com/watch?v=reBPwXh5J7E
 
 **Free for distribution and education use**
 
